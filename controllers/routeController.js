@@ -13,7 +13,7 @@ const getMyDetails = (req, res, _) => {
       name: "Uchenna Emeruche",
       github: "@uchennaemeruche",
       email: "uchennaemeruche@gmail.com",
-      mobile: "08031194042",
+      mobile: "",
       twitter: "",
     },
   });
